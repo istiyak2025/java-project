@@ -1,0 +1,278 @@
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+AIR JORDAN Casual - $350
+Total: $750.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+AIR JORDAN Casual - $350
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $1150.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $400.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $400.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+AIR JORDAN Casual - $350
+Total: $750.0
+----------
+New Cart Session:
+NIKE Casual - $150
+Total: $150.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $400.0
+----------
+New Cart Session:
+NIKE Casual - $150
+Total: $250.0
+----------
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Casual - $350
+Total: $600.0
+----------
+Customer Name: istiy
+Customer ID: 274
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $400.0
+----------
+Customer Name: istiy
+Customer ID: 2479
+New Cart Session:
+NIKE Casual - $150
+AIR JORDAN Casual - $350
+NIKE Casual - $150
+Total: $650.0
+----------
+Customer Name: tr
+Customer ID: 78678
+New Cart Session:
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+Total: $1750.0
+----------
+Customer Name: tr
+Customer ID: 78678
+New Cart Session:
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+AIR JORDAN Casual - $350
+Total: $2100.0
+----------
+Customer Name: hgh
+Customer ID: 8967
+New Cart Session:
+AIR JORDAN Casual - $350
+NIKE Casual - $150
+AIR JORDAN Sports - $250
+Total: $750.0
+----------
+Customer Name: istiyak ahmed
+Customer ID: 83737
+New Cart Session:
+NIKE Sports - $150
+Total: $150.0
+----------
+Customer Name: istiyak ahmed
+Customer ID: 83737
+New Cart Session:
+NIKE Sports - $150
+AIR JORDAN Sports - $250
+Total: $400.0
+----------
+Customer Name: istiyak ahmed
+Customer ID: 83737
+New Cart Session:
+AIR JORDAN Casual - $350
+Total: $350.0
+----------
+Customer Name: istiyak ahmed
+Customer ID: 83737
+New Cart Session:
+AIR JORDAN Casual - $350
+AIR JORDAN Sports - $250
+NIKE Sports - $150
+Total: $750.0
+----------
+Customer Name: ksndd
+Customer ID: 30484
+New Cart Session:
+AIR JORDAN Sports - $250
+AIR JORDAN Casual - $350
+Total: $600.0
+----------
+Customer Name: ksndd
+Customer ID: 30484
+New Cart Session:
+AIR JORDAN Sports - $250
+AIR JORDAN Casual - $350
+AIR JORDAN Sports - $250
+Total: $850.0
+----------
+Customer Name: jvjfv
+Customer ID: 38448
+New Cart Session:
+NIKE Casual - $250
+NIKE Casual - $250
+Total: $700.0
+----------
+Customer Name: gff
+Customer ID: 45
+New Cart Session:
+AIR JORDAN Casual - $350
+NIKE Casual - $250
+Total: $600.0
+----------
+Customer Name: dvf
+Customer ID: 43434
+New Cart Session:
+NIKE Casual - $250
+Total: $250.0
+----------
+Customer Name: dvf
+Customer ID: 43434
+New Cart Session:
+NIKE Casual - $250
+AIR JORDAN Casual - $350
+AIR JORDAN Sports - $250
+Total: $850.0
+----------
+Customer Name: dvf
+Customer ID: 43434
+New Cart Session:
+NIKE Casual - $250
+AIR JORDAN Casual - $350
+AIR JORDAN Sports - $250
+NIKE Casual - $250
+Total: $1100.0
+----------
+Customer Name: jfdjffj
+Customer ID: 73846
+New Cart Session:
+NIKE Sports - $150 (x1)
+Total: $150.0
+----------
+Customer Name: jfdjffj
+Customer ID: 73846
+New Cart Session:
+NIKE Casual - $250 (x1)
+AIR JORDAN Sports - $250 (x1)
+AIR JORDAN Casual - $350 (x2)
+NIKE Sports - $150 (x1)
+Total: $1350.0
+----------
+Customer Name: jfdjffj
+Customer ID: 73846
+New Cart Session:
+NIKE Casual - $250 (x1)
+AIR JORDAN Sports - $250 (x1)
+AIR JORDAN Casual - $350 (x2)
+NIKE Sports - $150 (x2)
+Total: $1500.0
+----------
+Customer Name: ffgf
+Customer ID: 5675
+New Cart Session:
+NIKE Casual - $250 (x1)
+AIR JORDAN Casual - $350 (x1)
+AIR JORDAN Sports - $250 (x1)
+Total: $850.0
+----------
+Customer Name: ff
+Customer ID: 5454
+New Cart Session:
+NIKE Casual - $250 (x1)
+AIR JORDAN Casual - $350 (x2)
+AIR JORDAN Sports - $250 (x1)
+NIKE Sports - $150 (x2)
+Total: $1500.0
+----------
+Customer Name: hjgfhd
+Customer ID: 5645654
+New Cart Session:
+NIKE Casual - $250 (x1)
+Total: $250.0
+----------
+Customer Name: fhgh
+Customer ID: 565
+New Cart Session:
+NIKE Casual - $250 (x3)
+Total: $750.0
+----------
+Customer Name: fhgh
+Customer ID: 565
+New Cart Session:
+NIKE Casual - $250 (x3)
+AIR JORDAN Sports - $250 (x1)
+Total: $1000.0
+----------
+Customer Name: ujih
+Customer ID: 9889
+New Cart Session:
+AIR JORDAN Casual - $350 (x1)
+Total: $350.0
+----------
+Customer Name: bfgh
+Customer ID: tty
+New Cart Session:
+AIR JORDAN Casual - $350 (x1)
+Total: $350.0
+----------
+Customer Name: dfdgfg
+Customer ID: 5676
+New Cart Session:
+AIR JORDAN Sports - $250 (x2)
+AIR JORDAN Casual - $350 (x1)
+NIKE Sports - $150 (x1)
+Total: $1000.0
+----------
+Customer Name: fhggfb
+Customer ID: 45776
+New Cart Session:
+AIR JORDAN Casual - $350 (x1)
+NIKE Sports - $150 (x1)
+Total: $500.0
+----------
+Customer Name: kj
+Customer ID: mmi
+New Cart Session:
+NIKE Sports - $150 (x1)
+Total: $150.0
+----------
+Customer Name: kj
+Customer ID: mmi
+New Cart Session:
+AIR JORDAN Casual - $350 (x2)
+NIKE Sports - $150 (x1)
+Total: $850.0
+----------
+Customer Name: kj
+Customer ID: mmi
+New Cart Session:
+AIR JORDAN Casual - $350 (x3)
+NIKE Sports - $150 (x1)
+Total: $1200.0
+----------
